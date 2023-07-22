@@ -168,3 +168,5 @@ xar-pay.ml
 yasell.biz
 yektanet.com
 zarpop.com
+api2.zoomit.ir
+click.digiato.com
